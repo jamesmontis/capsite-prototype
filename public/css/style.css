@@ -11,6 +11,23 @@
     letter-spacing: 1px;
     text-align: center;
   }
+
+  label {
+    display:inline-block;
+    width:200px;
+    margin-right:30px;
+    text-align:right;
+    }
+    
+    input{
+      size: 25;
+    }
+    
+    fieldset{
+    border:none;
+    width:500px;
+    margin:0px auto;
+    }
   
   body {
     background: hsl(0, 0%, 90%);
